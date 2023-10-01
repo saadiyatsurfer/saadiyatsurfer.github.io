@@ -1,7 +1,6 @@
 ---
 permalink: /dln/
 title: "Digital Literacy Narrative"
-author_profile: false
 ---
 
 At 21, I find myself on the cusp of two different worlds: one where handwritten notes and face-to-face meetings dominated daily life, and another, where my entire life seems enveloped by screens, dinging notifications, and an ever-expanding web of interconnected data. Enrolling in an introductory course on Digital Humanities at the university felt like a logical step forward, considering my perpetual relationship with the digital realm.

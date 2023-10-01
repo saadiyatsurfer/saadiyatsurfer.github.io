@@ -60,20 +60,20 @@ plugins:
 author:
   name   : "Maaz Ahmed"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "CS @ NYUAD"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/saadiyatsurfer"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/maazahmedd_/"
 
 footer:
   links:
@@ -82,10 +82,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/saadiyatsurfer"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/maazahmedd_/"
 
 defaults:
   # _posts

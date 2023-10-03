@@ -87,9 +87,9 @@ In our third research phase, we chose to continue focusing on exploring cultures
 
 ![Persian Word Cloud](/assets/images/persian.png)
 
-What particularly caught our attention was the surprising similarity in language between Ottoman and Persian cultures. Words like "manuscript," "folio," and "text" were shared between these two cultures. Furthermore, it was also interesting to see that the phrase “Persian texts” appeared in the Ottoman culture word cloud, highlighting their historical connections.
+What particularly caught our attention was the surprising similarity in language between Ottoman and Persian cultures. Words like *manuscript*, *folio*, and *text* were shared between these two cultures. Furthermore, it was also interesting to see that the phrase *Persian texts* appeared in the Ottoman culture word cloud, highlighting their historical connections.
 
-What stood out the most in our research was the consistent prominence of religion in all three cultures. We found words like "Cross," "Prophet," and "Qu’ran" recurring frequently. This emphasizes the significant role that religion played in shaping these societies, underlining its enduring influence on their values, traditions, and identities throughout history.
+What stood out the most in our research was the consistent prominence of religion in all three cultures. We found words like *Cross*, *Prophet*, and *Qu’ran* recurring frequently. This emphasizes the significant role that religion played in shaping these societies, underlining its enduring influence on their values, traditions, and identities throughout history.
 
 
 

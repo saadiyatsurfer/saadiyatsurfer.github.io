@@ -15,7 +15,7 @@ On the other hand, the csv file required more data manipulation and provided dee
 
 One particular art piece of our interest was the one titled *[Orchids and Rocks](https://harvardartmuseums.org/collections/object/173594?position=173594)*, created by Yi Ha-ŭng, a royal prince and father of the last king of the Chosŏn dynasty. The metadata helped us understand that the artwork is a ten-panel folding screen made using ink on silk and is dated early autumn 1892. We found the composition of this screen to be very unique; although each panel can be seen as an individual painting, the ten panels are grouped in four pairs. After reading more about it, we understood that this composition provided a form of visual ambiguity that was appealing to Korean literati artists of the 19th and early 20th century, and with its large dimensions, we could guess that it was likely crafted for a royal palace.
 
-We also found a print of *[The Bible](https://harvardartmuseums.org/collections/object/217881)* very interesting, particularly because during our initial exploration with the all objects CSV file, we tried looking for extinct cultures, which would eventually be the criteria for the selection of cultures for part 2. In doing so, we found that there were certain cultures that had very little representation in the Harvard Art Museum. This piece is one of the only seven pieces representing Yugoslav culture that went through several political changes and transformations over the years. It is an image made up of eight plates printed in black and white and five round plates printed in colors using etching with roulette and aquatint on paper technique.
+We also found a print of *[The Bible](https://harvardartmuseums.org/collections/object/217881)* very interesting, particularly because during our initial exploration with the all objects CSV file, we tried looking for extinct cultures, which would eventually be the criteria for the selection of cultures for part 3. In doing so, we found that there were certain cultures that had very little representation in the Harvard Art Museum. This piece is one of the only seven pieces representing Yugoslav culture that went through several political changes and transformations over the years. It is an image made up of eight plates printed in black and white and five round plates printed in colors using etching with roulette and aquatint on paper technique.
 
 
 # Part 2
@@ -71,10 +71,25 @@ On the other hand, the least viewed items primarily consist of coins, many of wh
 For all objects belonging to the Byzantine culture, we were able to conduct an analysis using accession year data and a corresponding time series bar chart, shown below.
 
 ![Accession year time series bar graph](/assets/images/newplot.png)
+
 The results obtained from this analysis were quite surprising for Byzantine culture. It became evident that the majority of the art pieces had been acquired during the same time period, specifically the 1950s. This prompted our curiosity to explore why this specific period was significant. Initial searches on Google did not yield satisfying answers. As we delved deeper into the individual pieces, we noticed an ***Acquisition and Rights*** category in their descriptions on the museum's website, particularly the line *Harvard Art Museums/Arthur M. Sackler Museum, Bequest of Thomas Whittemore*, which piqued our interest.
 
 We discovered that in 1985, the Harvard Art Museums established a dedicated institution known as [The Arthur M. Sackler Museum](https://harvardartmuseums.org/about/history-and-the-three-museums), focusing on works from Asia, the Middle East, and the Mediterranean. Consequently, the Byzantine collection was relocated there after its inauguration. The mention of the *Bequest of Thomas Whittemore* indicated that the acquired pieces were, in fact, donations from an individual named Thomas Whittemore. In this context, 'bequest' refers to the act of gifting or donating items through a person's will, typically after their passing. It became evident that these pieces were associated with Thomas Whittemore.
+
 Upon conducting more extensive research, we unearthed the historical context that clarified the mystery. [Thomas Whittemore](https://www.doaks.org/resources/online-exhibits/before-byzantium/who-was-thomas-whittemore) had founded the Byzantine Institute in 1930, an organization specialized in the study, restoration, and conservation of Byzantine art and architecture. He oversaw the Institute’s fieldwork projects and publication efforts until his sudden passing in 1950, precisely the year when Harvard Art Museums acquired most of the pieces, thereby establishing a compelling connection between the pieces, their donor, and their acquisition during this period.
+
+# Part 3
+In our third research phase, we chose to continue focusing on exploring cultures that no longer exist. Specifically, we decided to compare the Byzantine, Persian, and Ottoman cultures. In order to dig in, we decided to use **stop.words(‘english’)** as well as some additional stop words such as **nan**. The word clouds based on the combined descriptions and titles of the objects from these cultures are below.
+
+![Byzantine Word Cloud](/assets/images/byzantine.png)
+
+![Ottoman Word Cloud](/assets/images/ottoman.png)
+
+![Persian Word Cloud](/assets/images/persian.png)
+
+What particularly caught our attention was the surprising similarity in language between Ottoman and Persian cultures. Words like "manuscript," "folio," and "text" were shared between these two cultures. Furthermore, it was also interesting to see that the phrase “Persian texts” appeared in the Ottoman culture word cloud, highlighting their historical connections.
+
+What stood out the most in our research was the consistent prominence of religion in all three cultures. We found words like "Cross," "Prophet," and "Qu’ran" recurring frequently. This emphasizes the significant role that religion played in shaping these societies, underlining its enduring influence on their values, traditions, and identities throughout history.
 
 
 

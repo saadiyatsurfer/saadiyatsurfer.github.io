@@ -3,6 +3,33 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
+> Note: This is the 2nd version of the Digital Literacy Narrative. Please find the first version below.
+
+At the relatively young age of 21, I find myself in the midst of an intriguing transition. This period is characterized by a delicate balance between the traditional academic methods I had grown accustomed to and an ever-growing digital world that is rapidly evolving. Before I took the plunge into the Digital Humanities course, my interactions with digital technology were mostly limited to what I knew and used regularly.
+
+Platforms such as Instagram, Snapchat, and TikTok weren't just part of my daily routine; they were central to it. These social media sites became vital avenues for me to express myself and connect with others. Through these platforms, I learned the basics of digital storytelling and how to engage with an audience, although in a more informal and personal setting.
+
+In my academic life, Microsoft Office was my go-to resource. I relied heavily on Word for writing essays and PowerPoint for crafting presentations. However, my entry into university life introduced me to Google Workspace, which was a game-changer in how I approached collaborative projects. I discovered the convenience and efficiency of cloud-based tools, such as Google Docs and Slides, which drastically altered my work methods.
+
+For my social and academic interactions, WhatsApp and Discord were indispensable. They made communication, whether for personal chats or group discussions related to coursework, effortless and seamless. When it came to research, I frequently turned to scholarly databases like JSTOR and Google Scholar. Mendeley, in particular, proved to be an invaluable tool for managing and organizing my academic references.
+
+Despite my comfort and familiarity with these varied digital platforms, my experience with data analysis tools remained quite basic. My use of Excel was confined to straightforward tasks like data visualization and basic computations. This limitation made me acutely aware of my lack of deeper knowledge in more complex aspects of data analysis.
+
+The Digital Humanities course marked a pivotal moment in my journey towards digital proficiency. It all started with an immersive dive into the world of APIs, a concept that was completely new to me. One of the most striking experiences was working with the Harvard Art Museum’s data API. This wasn't just a matter of accessing a database; it was an eye-opening experience in how digital interfaces can open doors to vast amounts of information, making it possible to conduct thorough and comparative analyses. This task offered me a fresh viewpoint on the power of digital tools in uncovering hidden connections and insights, something I hadn't realized before.
+
+Another significant aspect of the course was the introduction to textual analysis tools, like OCR and Voyant Tools. These tools opened up the intricate world of digital text analysis to me. They allowed me to dissect and examine texts in a way I had never imagined, uncovering patterns, themes, and frequencies that went beyond what traditional reading methods could reveal. This advanced level of textual analysis completely transformed my approach to understanding literature and documents.
+
+The course also brought geospatial analysis tools, especially Kepler.gl, to my attention, adding an entirely new layer to my data comprehension. Learning to represent data spatially was a game-changer. It was not just about processing data, but about visualizing and interpreting it within geographical and spatial contexts. These exercises brought to light the narrative power of data, showing how it could tell stories when analyzed and presented while considering its spatial characteristics.
+
+Moreover, the course made me think deeply about the ethical aspects of digital technology. Discussions about data privacy, the biases inherent in algorithms, and the accessibility of digital content fostered a sense of responsibility in me as someone who interacts with digital technology. These talks underscored the importance of not only using digital tools effectively but also understanding their wider societal implications.
+
+This educational journey has greatly broadened my digital ambitions. I'm now eager to delve into data analytics, exploring in more detail advanced tools like R and Python, which are essential for sophisticated research in digital humanities. Moving beyond the basics of Excel, I aspire to master more intricate data visualization tools like Tableau, aiming to present and interpret complex datasets in a more detailed and impactful way.
+
+In summary, the Digital Humanities course has profoundly changed my perspective and skill set. It transformed me from a mere consumer of digital content to an active, critical participant in the digital era. My goal now is to fully utilize digital tools in academic research and beyond, continuously exploring the dynamic field of digital humanities. This course didn't just provide me with technical skills; it ignited a passion in me to understand and contribute to the digital conversation in a meaningful and responsible manner.
+
+
+### First Version
+
 At 21, I find myself on the cusp of two different worlds: one where handwritten notes and face-to-face meetings dominated daily life, and another, where my entire life seems enveloped by screens, dinging notifications, and an ever-expanding web of interconnected data. Enrolling in an introductory course on Digital Humanities at the university felt like a logical step forward, considering my perpetual relationship with the digital realm.
 
 For daily content creation, I naturally gravitate towards platforms that my peers and I have grown up with. Instagram, Snapchat, and TikTok have not only been tools for communication but also for personal expression. From creating quick stories to curating my feed, these platforms have given me rudimentary skills in design, storytelling, and audience engagement. Academically, I've been inclined towards Microsoft Office for years, relying on Word for essays and PowerPoint for presentations. But the university introduced me to Google Workspace. Tools like Google Docs and Slides have transformed my group projects, making real-time collaboration a breeze.

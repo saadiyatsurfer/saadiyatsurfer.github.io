@@ -41,9 +41,11 @@ The next task was to extract these data points from the source material. Since t
 Working further on the spatial component of the data, we improved the structured dataset extracted from the "Radio and Television Annual Year Book (1962)" by adding geocoded coordinates and relevant historical context to each radio and television market. This involved using geocoding services to translate the market cities into precise latitude and longitude coordinates, which allowed for accurate mapping.
 
 The spreadsheet with columns representing each data aspect for television broadcasting is shown below.
+
 ![Television Spreadsheet](/assets/images/tv-2.png)
 
 The spreadsheet with columns representing each data aspect for radio broadcasting is shown below.
+
 ![Radio Spreadsheet](/assets/images/radio-2.png)
 
 ### Step 4: Visualizing the data. Discussion and Interpretation

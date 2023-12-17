@@ -3,7 +3,41 @@ permalink: /dln/
 title: "Digital Literacy Narrative"
 ---
 
-> Note: This is the 2nd version of the Digital Literacy Narrative. Please find the first version below.
+> Note: This is the 3rd version of the Digital Literacy Narrative. Please find the first and second versions below.
+
+At the relatively young age of 21, I find myself in the midst of an intriguing transition. This period is characterized by a delicate balance between the traditional academic methods I had grown accustomed to and an ever-growing digital world that is rapidly evolving. Before I took the plunge into the Digital Humanities course, my interactions with digital technology were mostly limited to what I knew and used regularly.
+
+Platforms such as Instagram, Snapchat, and TikTok weren’t just part of my daily routine; they were central to it. These social media sites became vital avenues for me to express myself and connect with others. Through these platforms, I learned the basics of digital storytelling and how to engage with an audience, although in a more informal and personal setting.
+
+In my academic life, Microsoft Office was my go-to resource. I relied heavily on Word for writing essays and PowerPoint for crafting presentations. However, my entry into university life introduced me to Google Workspace, which was a game-changer in how I approached collaborative projects. I discovered the convenience and efficiency of cloud-based tools, such as Google Docs and Slides, which drastically altered my work methods.
+
+For my social and academic interactions, WhatsApp and Discord were indispensable. They made communication, whether for personal chats or group discussions related to coursework, effortless and seamless. When it came to research, I frequently turned to scholarly databases like JSTOR and Google Scholar. Mendeley, in particular, proved to be an invaluable tool for managing and organizing my academic references.
+
+Despite my comfort and familiarity with these varied digital platforms, my experience with data analysis tools remained quite basic. My use of Excel was confined to straightforward tasks like data visualization and basic computations. This limitation made me acutely aware of my lack of deeper knowledge in more complex aspects of data analysis.
+
+This course marked a pivotal moment in my journey towards digital proficiency. Now, the platforms I engage with are more specialized. It all started with an immersive dive into the world of APIs, a concept that was completely new to me. One of the most striking experiences was working with the Harvard Art Museum’s data API. This wasn’t just a matter of accessing a database; it was an eye-opening experience in how digital interfaces can open doors to vast amounts of information, making it possible to conduct thorough and comparative analyses. This task offered me a fresh viewpoint on the power of digital tools in uncovering hidden connections and insights, something I hadn’t realized before.
+
+Another significant aspect of the course was the introduction to textual analysis tools, like OCR and Voyant Tools. These tools opened up the intricate world of digital text analysis to me. They allowed me to dissect and examine texts in a way I had never imagined, uncovering patterns, themes, and frequencies that went beyond what traditional reading methods could reveal. This advanced level of textual analysis completely transformed my approach to understanding literature and documents.
+
+The course also brought geospatial analysis tools, especially Kepler.gl, to my attention, adding an entirely new layer to my data comprehension. Learning to represent data spatially was a game-changer. It was not just about processing data, but about visualizing and interpreting it within geographical and spatial contexts. These exercises brought to light the narrative power of data, showing how it could tell stories when analyzed and presented while considering its spatial characteristics.
+
+Perhaps the one tool I have started using very intentionally since I started this course is ChatGPT. Previously, my use of ChatGPT was very one-dimensional. I primarily generated text, in a capacity where I would use it to improve the structure of an email or generate ideas for a project. With the experiments we did in class, I have now started using it for almost everything, including data cleaning (of course), generating images as prototypes, and much more.
+
+When I started this course, my computer science background gave me a head start in areas like generating word clouds and basic data analysis using Python or R. However, I've learned the importance of leveraging existing tools instead of reinventing the wheel. Tools like Jekyll for website creation and Voyant Tools for textual analysis have been particularly enlightening. They taught me that efficiency and accessibility often trump the intricacies of custom coding, and the results can often be better if not the same.
+
+In my digital journey over the past few weeks, I have also realized that I still have much to learn in the area of understanding and using image classification beyond just sorting and analyzing images. This area, which I haven't delved into deeply yet, holds significant potential for broadening the scope and depth of my projects in digital humanities.
+
+By improving my skills in image classification, I can move beyond basic analysis and start uncovering deeper insights from visual data. For instance, this could involve interpreting complex patterns in images or understanding the context and significance of visual elements in historical photographs and artwork. The ability to classify and interpret images at this level would allow me to add a richer, more nuanced layer to my work. This improvement is not about using advanced software or complicated algorithms, but rather about developing a more intuitive and insightful approach to visual data. It's about seeing the stories and meanings that lie beneath the surface of images. Whether it's recognizing subtle themes in a collection of paintings or identifying historical trends through photographic archives, enhancing my skills in image classification will enable me to draw more meaningful conclusions and contribute more significantly to my field.
+
+Through this course, my understanding of data has evolved to encompass more than just numbers and text. I've begun to appreciate data as a narrative medium — an entity that tells stories, reveals patterns, and provides insights when analyzed thoughtfully. This course has introduced me to thinking about data in terms of ethics, representation, and accessibility, encouraging a more holistic and responsible approach to data handling.
+
+Engaging with AI in this course has been a transformative experience. It's fascinating and sometimes daunting to see how AI can augment human capabilities in analyzing and interpreting data. Working with AI has made me more aware of the biases that can be inherent in these systems, prompting me to critically evaluate the outputs and use them judiciously. It has also made me realize the potential of AI as a collaborative tool in research, pushing the boundaries of what can be achieved in digital humanities.
+
+Perhaps the Unproject was a highlight of this course for me. It really opened up my mind and got me thinking about how I could use all the tools we learned about in class for a project I'm truly passionate about, especially if I had access to all the resources I needed. Hearing about fascinating ideas, like exploring the history of Baqalas in the UAE, was incredibly inspiring. Plus, getting feedback on my own project idea was really valuable. It felt like the perfect way to wrap up the course.
+
+In summary, the Digital Humanities course has profoundly changed my perspective and skill set. It transformed me from a mere consumer of digital content to an active, critical participant in the digital era. My goal now is to fully utilize digital tools in academic research and beyond, continuously exploring the dynamic field of digital humanities. This course didn’t just provide me with technical skills; it ignited a passion in me to understand and contribute to the digital conversation in a meaningful and responsible manner.
+
+### Second Version
 
 At the relatively young age of 21, I find myself in the midst of an intriguing transition. This period is characterized by a delicate balance between the traditional academic methods I had grown accustomed to and an ever-growing digital world that is rapidly evolving. Before I took the plunge into the Digital Humanities course, my interactions with digital technology were mostly limited to what I knew and used regularly.
 
@@ -26,7 +60,6 @@ Moreover, the course made me think deeply about the ethical aspects of digital t
 This educational journey has greatly broadened my digital ambitions. I'm now eager to delve into data analytics, exploring in more detail advanced tools like R and Python, which are essential for sophisticated research in digital humanities. Moving beyond the basics of Excel, I aspire to master more intricate data visualization tools like Tableau, aiming to present and interpret complex datasets in a more detailed and impactful way.
 
 In summary, the Digital Humanities course has profoundly changed my perspective and skill set. It transformed me from a mere consumer of digital content to an active, critical participant in the digital era. My goal now is to fully utilize digital tools in academic research and beyond, continuously exploring the dynamic field of digital humanities. This course didn't just provide me with technical skills; it ignited a passion in me to understand and contribute to the digital conversation in a meaningful and responsible manner.
-
 
 ### First Version
 
